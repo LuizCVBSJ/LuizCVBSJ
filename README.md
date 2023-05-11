@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on a website for managing my AirBnBs<br>Learning Python for back-end<br>Migrating to the technology market<br><br>I also run a company with my family that does boat maintenance in Paraty - RJ, Brazil.<br>Representing technical assistance for Beneteau, a French sail and motorboat manufacturer, in southeast Brazil.<br><br><br>I speak:<br>Portuguese - Brazilian (mother language)<br>English - Fluent<br>Italian - Intermediate<br>Japanese - Beginner<br>French - Beginner<br><br>My hobby is learning new languages
+Currently working on a website for managing my AirBnBs and Studying for my upcoming exams!<br>I'm learning Python for Back-end but I also enjoy playing around with personal websites<br>Migrating to the technology market<br><br>I also run a company with my family that does boat maintenance in Paraty - RJ, Brazil.<br>Representing technical assistance for Beneteau, a French sail and motorboat manufacturer, in southeast Brazil.<br><br><br>I speak:<br>Portuguese - Brazilian (mother language)<br>English - Fluent<br>Italian - Intermediate<br>Japanese - Beginner<br>French - Beginner<br><br>My hobby is learning new languages
 
 
 ## 🌐 Socials:
